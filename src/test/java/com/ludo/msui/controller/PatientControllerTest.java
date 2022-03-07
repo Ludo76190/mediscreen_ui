@@ -1,6 +1,5 @@
 package com.ludo.msui.controller;
 
-import com.ludo.msui.Controller.PatientController;
 import com.ludo.msui.model.Note;
 import com.ludo.msui.model.Patient;
 import com.ludo.msui.proxies.ReportProxy;

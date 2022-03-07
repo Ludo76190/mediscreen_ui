@@ -1,4 +1,4 @@
-package com.ludo.msui.Controller;
+package com.ludo.msui.controller;
 
 import com.ludo.msui.model.Note;
 import com.ludo.msui.service.NoteProxyService;

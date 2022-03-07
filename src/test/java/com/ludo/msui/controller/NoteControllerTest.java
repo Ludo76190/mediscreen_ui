@@ -1,6 +1,5 @@
 package com.ludo.msui.controller;
 
-import com.ludo.msui.Controller.NoteController;
 import com.ludo.msui.model.Note;
 import com.ludo.msui.service.NoteProxyService;
 import org.junit.jupiter.api.Test;
